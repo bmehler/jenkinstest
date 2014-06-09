@@ -10,5 +10,6 @@ echo 'Manchmal gibts auch Schnee!';
 echo 'Ich weine!';
 echo 'Wann wirds mal wieder richtig Sommer?';
 echo 'OH da hat sich ein Fehler eingeschlichen';
+echo 'Mal sehen ob jetzt was geht!';
 echo 'Jetzt ist wieder Somme';
 ?>
