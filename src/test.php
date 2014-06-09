@@ -5,5 +5,6 @@ echo 'Hoffentlich morgen auch';
 echo 'Es regnet nicht!';
 echo 'Manchmal gibts auch Schnee!';
 echo 'Ich weine!';
+echo 'Wann wirds mal wieder richtig Sommer?";
 echo 'Jetzt ist wieder Somme';
 ?>
