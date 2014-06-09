@@ -1,5 +1,6 @@
 
 <?php
+echo 'An den Anfang';
 echo 'Zurück! Von ganz vorne!';
 echo 'Beginnen wir nochmal';
 echo 'Nochmal beginnen';
