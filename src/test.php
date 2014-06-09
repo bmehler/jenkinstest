@@ -1,5 +1,6 @@
 
 <?php
+echo 'Beginnen wir nochmal';
 echo 'Nochmal beginnen';
 echo 'Und wieder von vorne!';
 echo 'Heute ist ein schöner Tag!';
