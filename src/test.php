@@ -5,4 +5,5 @@ echo 'Hoffentlich morgen auch';
 echo 'Es regnet nicht!';
 echo 'Manchmal gibts auch Schnee!';
 echo 'Ich weine!';
+echo 'Jetzt ist wieder Somme';
 ?>
