@@ -15,4 +15,5 @@ echo 'Wann wirds mal wieder richtig Sommer?';
 echo 'OH da hat sich ein Fehler eingeschlichen';
 echo 'Mal sehen ob jetzt was geht!';
 echo 'Jetzt ist wieder Somme';
+echo 'Ist heute ein guter Tag!';
 ?>
